@@ -1,0 +1,14 @@
+C:\Users\Роберт\source\repos\EpicTestBot\EpicTestBot\bin\Debug\netcoreapp2.1\EpicTestBot.deps.json
+C:\Users\Роберт\source\repos\EpicTestBot\EpicTestBot\bin\Debug\netcoreapp2.1\EpicTestBot.runtimeconfig.json
+C:\Users\Роберт\source\repos\EpicTestBot\EpicTestBot\bin\Debug\netcoreapp2.1\EpicTestBot.runtimeconfig.dev.json
+C:\Users\Роберт\source\repos\EpicTestBot\EpicTestBot\bin\Debug\netcoreapp2.1\EpicTestBot.dll
+C:\Users\Роберт\source\repos\EpicTestBot\EpicTestBot\obj\Debug\netcoreapp2.1\EpicTestBot.csprojAssemblyReference.cache
+C:\Users\Роберт\source\repos\EpicTestBot\EpicTestBot\obj\Debug\netcoreapp2.1\EpicTestBot.csproj.CoreCompileInputs.cache
+C:\Users\Роберт\source\repos\EpicTestBot\EpicTestBot\obj\Debug\netcoreapp2.1\EpicTestBot.RazorAssemblyInfo.cache
+C:\Users\Роберт\source\repos\EpicTestBot\EpicTestBot\obj\Debug\netcoreapp2.1\EpicTestBot.RazorAssemblyInfo.cs
+C:\Users\Роберт\source\repos\EpicTestBot\EpicTestBot\obj\Debug\netcoreapp2.1\EpicTestBot.AssemblyInfoInputs.cache
+C:\Users\Роберт\source\repos\EpicTestBot\EpicTestBot\obj\Debug\netcoreapp2.1\EpicTestBot.AssemblyInfo.cs
+C:\Users\Роберт\source\repos\EpicTestBot\EpicTestBot\obj\Debug\netcoreapp2.1\EpicTestBot.RazorTargetAssemblyInfo.cache
+C:\Users\Роберт\source\repos\EpicTestBot\EpicTestBot\bin\Debug\netcoreapp2.1\EpicTestBot.pdb
+C:\Users\Роберт\source\repos\EpicTestBot\EpicTestBot\obj\Debug\netcoreapp2.1\EpicTestBot.dll
+C:\Users\Роберт\source\repos\EpicTestBot\EpicTestBot\obj\Debug\netcoreapp2.1\EpicTestBot.pdb
